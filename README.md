@@ -1,4 +1,4 @@
-# react-inerviw-important-questions
+# react-inerview-important-questions
 ## Controlled and Uncontrolled Components
 ### 1. Controlled Components
 ####   In one sentence, Form data is handled by React componenets (state).
