@@ -40,5 +40,5 @@
 ![Capture5](https://user-images.githubusercontent.com/31300915/147224706-419446e5-6ab8-40a7-a547-85b68acb2de8.PNG)
 #### So here we need to change the reference and this will happen using spread oparator like below:---
 ![Capture4](https://user-images.githubusercontent.com/31300915/147224911-828dc4ef-38f1-45f4-8cb9-ba2410f72796.PNG)
- 
-
+## What is RECONCILIATION ?
+### RECONCILIATION is the process where virtual DOM is created in-memory of real DOM and is compaired with real DOM for any changes in DOM node. If any changes is found then the perticular node is updated in real DOM and render it for display to user.
